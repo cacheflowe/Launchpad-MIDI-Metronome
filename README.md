@@ -1,6 +1,6 @@
 Launchpad Midi Metronome
 ===
-Provides a visual metronome in the "scene launch" button column on the Launchpad
+This MIDI clip rovides a visual metronome in the "scene launch" button column on the Launchpad
 
 Getting Started
 ---
