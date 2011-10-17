@@ -10,7 +10,8 @@ Getting Started
 * Create a MIDI track, name it Metronome, and drop the MIDI file into your track. 
 * You may want to use [cmd/ctrl + e] to disable all of the stop buttons on your MIDI track, since using a "scene launch" button may turn off your metronome.
 * Go to the i/o settings panel for your MIDI track, and set the output to the Launchpad.
-* Press play, and enjoy the 4-bar metronome pattern. 
+* Press play, and enjoy the 4-bar metronome pattern.
+ 
 Customizing
 ---
 * You can change the LED colors by changing the velocity of the MIDI notes. 
